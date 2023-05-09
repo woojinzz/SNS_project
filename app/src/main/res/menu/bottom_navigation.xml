@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="홈" />
+
+    <item
+        android:id="@+id/myInfo"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="내 정보" />
+    <item
+        android:id="@+id/userList"
+        android:icon="@drawable/baseline_group_24"
+        android:title="사용자 목록" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/common_full_open_on_phone"
+        android:title="로그아웃" />
+</menu>

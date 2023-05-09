@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400191655328",
+    "project_id": "snsapp-b6666",
+    "storage_bucket": "snsapp-b6666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400191655328:android:4bb9af50f4e34bbba028c5",
+        "android_client_info": {
+          "package_name": "com.kwj.sns_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400191655328-vmupega3tnqspgeiq7g2emnmqtoor39g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpP7Yrv0lxMyaC_9WHJpiZ1lBgwkDPaz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400191655328-vmupega3tnqspgeiq7g2emnmqtoor39g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
